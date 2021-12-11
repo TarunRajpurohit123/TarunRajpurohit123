@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TarunRajpurohit123
 - 👀 I’m interested in ... full-stack-web developement 
-- 🌱 I’m currently learning ... web devlopement
+- 🌱 I’m currently learning ... project-based web developement
 - 💞️ I’m looking to collaborate on ... web developement
 - 📫 How to reach me ... tarunrajpurohitcreator@gmail.com
 
